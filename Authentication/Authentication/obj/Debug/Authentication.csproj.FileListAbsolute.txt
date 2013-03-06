@@ -1,0 +1,5 @@
+d:\users\j.van.der.last\documents\visual studio 2010\Projects\Authentication\Authentication\bin\Authentication.dll
+d:\users\j.van.der.last\documents\visual studio 2010\Projects\Authentication\Authentication\bin\Authentication.pdb
+d:\users\j.van.der.last\documents\visual studio 2010\Projects\Authentication\Authentication\obj\Debug\ResolveAssemblyReference.cache
+d:\users\j.van.der.last\documents\visual studio 2010\Projects\Authentication\Authentication\obj\Debug\Authentication.dll
+d:\users\j.van.der.last\documents\visual studio 2010\Projects\Authentication\Authentication\obj\Debug\Authentication.pdb
